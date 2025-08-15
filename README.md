@@ -1,4 +1,4 @@
-📱 QR Code Project
+<h1>📱 QR Code Project</h1>
 
 Um projeto simples e responsivo deum QR Code para ser lido pelos usuários.
 Desenvolvido como prática de HTML, CSS puro.
