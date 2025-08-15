@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="icon" type="image/png" sizes="32x32" href="./images/favicon-32x32.png">  
+  <title>QR code component</title>
+
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
+
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+      font-family: "Outfit", sans-serif;
+    }
+
+    body {
+      background-color: #d6e2f0ff;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+
+    #main {
+      height: 415px;
+      width: 300px;
+      margin-top: 80px;
+      padding: 10px;
+      border-radius: 10px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      text-align: center;
+      background-color: #ffffff;
+    }
+
+    img {
+      height: 250px;
+      width: 250px;
+      border-radius: 10px;
+    }
+
+    #paragraph-first {
+      margin-top: 20px;
+      font-size: 15px;
+      color: #1f3251ff;
+      font-weight: 700;
+    }
+
+    #paragraph-second {
+      margin-top: 20px;
+      font-size: 15px;
+      color: #68778dff;
+      font-weight: 400;
+    }
+  </style>
+</head>
+<body>
+
+  <div id="main">
+    <img src="images/image-qr-code.png" alt="Imagem de um Qr Code">
+    <p id="paragraph-first">
+      Improve your front-end <br> skills by building projects
+    </p>
+
+    <p id="paragraph-second">
+      Scan the QR code to visit Frontend Mentor and take your coding skills to the next level
+    </p>
+  </div>
+
+</body>
+</html>
