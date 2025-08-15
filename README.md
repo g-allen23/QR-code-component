@@ -1,4 +1,4 @@
-📱 <h1>QR Code Project<h1>
+<h1>📱 QR Code Project</h1>
 
 <p>
     Um projeto simples e responsivo deum QR Code para ser lido pelos usuários.
