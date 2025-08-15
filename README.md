@@ -25,11 +25,13 @@
 
 <ul>
     <li>
-        Imagem de Desktop
+        <p style="text-align: center;">Imagem de Desktop</p>
+        <br>
         <img src="conclusão/desktop-QR.png">
     </li>
     <li>
-        Imagem de Mobile
+        <p style="text-align: center;">Imagem de Mobile</p>
+        <br>
         <img src="conclusão/mobile-QR.png">
     </li>
 </ul>
